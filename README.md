@@ -6,7 +6,7 @@
   - Matplotlib
 ## Key Insights
   - Sales  are highest in month  of December
-  - Techology category performs best
+  - Technology category performs best
   - West region leads in sales
 ## Files Included
   - sales_analysis.py
