@@ -1,4 +1,4 @@
-# Sales Data Analysis {roject
+# Sales Data Analysis Project
   This project analysis sales data to identify trends, top-performing  products, and regional performance.
 ## Tools used
   - Python
